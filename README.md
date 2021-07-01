@@ -22,6 +22,6 @@ Profit is defined by me: Profit = Price Charged - Cost of Trip
 
 Pickle is used for efficient working with jupyter, the parts related to "pkl" are commented
 
-Hypothesis and Conclusions are provided in the other notebook
+Hypothesis and Conclusions are provided in the EDA notebook
 
 The profiling method helps me find informative data that guide me to take an analysis on the specific area and plot them, so profiling results are not discussed in detail but the files are attached, you can check it
